@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Estiq
+- 👋 Hi, I’m Andrzej
 - 🌱 I’m currently learning github
 
 
